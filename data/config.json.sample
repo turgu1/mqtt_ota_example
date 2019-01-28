@@ -1,0 +1,15 @@
+{
+  "version"          : 1,
+  "device_name"      : "",
+  "ssid"             : "your ssid",
+  "wifi_password"    : "your wifi password",
+  "ip"               : "",
+  "dns"              : "",
+  "gateway"          : "",
+  "subnet_mask"      : "255.255.255.0",
+  "mqtt_server_name" : "the mqtt server address",
+  "mqtt_user_name"   : "the mqtt user name",
+  "mqtt_password"    : "the mqtt user password",
+  "mqtt_port"        : 8883,
+  "mqtt_fingerprint" : [13,217,75,226,184,245,80,117,113,43,18,251,39,75,237,77,35,65,10,19]
+}
